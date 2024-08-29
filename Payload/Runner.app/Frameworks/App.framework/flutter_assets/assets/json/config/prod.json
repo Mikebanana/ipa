@@ -1,0 +1,37 @@
+{
+  "apkversion": "0.1.0",
+  "iosversion": "0.1.0",
+  "apkbuild": 1000,
+  "iosbuild": 1000,
+  "apkupdatecheck": 1,
+  "iosupdatecheck": 1,
+  "upgradeinfo": "Updating: #1. Improved wallet features.#2. Enrich the music playback mode.#3. Resolved known bugs and enhanced user experience.",
+  "apkurl": "https://play.google.com/store/apps/details?id=com.stepngo.app",
+  "iosurl": "https://apps.apple.com/us/app/stepn-go/id6502820042",
+
+
+  "apiurl": "https://goapi.stepn.io",
+  "apiurl2": "https://goapi.stepn.io",
+
+  "fslurl": "https://account.findsatoshilab.com/api/account",
+  "fslurl2": "https://account.findsatoshilab.com/api/account",
+
+  "mantain": 1,
+  "mantaininfo": "IMPORTANT\n\nIf you won a STEPN x adidas Genesis Sneaker and want to use it in STEPN, Lock it from your MOOAR account and it will appear in your STEPN app!\n\nDO NOT try to transfer it to your spending account; otherwise, your Sneaker will be LOST FOREVER.\n\nMore details here:",
+  "mantainUrl": "https://twitter.com/Stepnofficial/status/1781339201956401638",
+
+  "notice": 0,
+  "noticeinfo": "Here is your #STEPNRecap2023!\n\nFollow @stepnofficial and share your using #STEPNrecap2023 on X for upcoming giveaways!",
+  "noticeUrl": "https://stepn-recap-pro-v3.pages.dev?",
+
+  "imgprefix": "https://res.stepn.com/imgOut/",
+
+  "msgversion": 1,
+  "msgurl": "https://conf.stepngo.app/msg_en_1.json",
+
+  "nativeWebHost": "https://account.findsatoshilab.com?c=1",
+  "nativeWebHost2": "https://account.findsatoshilab.com?c=2",
+
+  "txtversion": 1,
+  "txturl": "https://conf.stepngo.app/game_en_1.json"
+}
